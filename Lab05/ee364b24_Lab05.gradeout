@@ -1,0 +1,22 @@
+/home/ecegridfs/a/ee364ta/grading/Lab05/ee364b24
+
+-------------------------------------------------------------------------
+FUNCTION          | DESCRIPTION    | COMMENTS                 | POINTS  
+-------------------------------------------------------------------------
+getCode             Invalid Value    Passed                     2/2     
+getCode             Valid Value 1    Passed                     4/4     
+getCode             Valid Value 2    Passed                     4/4     
+getCodesOn          Invalid Value    Passed                     2/2     
+getCodesOn          Valid Value 1    Passed                     4/4     
+getCodesOn          Valid Value 2    Passed                     4/4     
+getCommonCodes      Invalid Value    Passed                     2/2     
+getCommonCodes      Valid Value 1    Passed                     4/4     
+getCommonCodes      Valid Value 2    Passed                     4/4     
+getHorizontalMax                     Passed                     10/10   
+getUsersOf          Invalid Value    Passed                     2/2     
+getUsersOf          Valid Value 1    Passed                     4/4     
+getUsersOf          Valid Value 2    Passed                     4/4     
+getVerticalMax                       Passed                     10/10   
+-------------------------------------------------------------------------
+
+Total Score = 60.0
