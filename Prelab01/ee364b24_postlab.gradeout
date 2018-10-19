@@ -1,0 +1,43 @@
+School Olympics (40 pts)
+------------------------
+1)Arguments (7 pts)
+1a) No Arguments - Message (1 pt)
+Passed.
+1b) No Arguments - Error Code (2 pts)
+Passed.
+1c) 1 argument given - Message (1 pt)
+Passed.
+1d) 1 argument given - Error Code (2 pts)
+Passed.
+1e) File does not exist - Message (1 pt)
+Passed.
+2) Output (33 pts)
+2a) Total Athletes (11 pts)
+Passed.
+2a) Total Medals Won (11 pts)
+Passed.
+2a) Best Athlete (11 pts)
+Passed.
+------------------------
+Total for Part 1: 40/40 
+------------------------
+
+Mini Shell (40 pts)
+------------------------
+1) hello (7 pts)
+Passed.
+2) compile (7 pts)
+Passed.
+3) run wrong filename (7 pts)
+Passed.
+4) run arguments (7 pts)
+Passed.
+5) Unrecognized input (7 pts)
+Passed.
+6) goodbye (5 pts)
+Passed.
+------------------------
+Total for Part 2: 40/40 
+------------------------
+
+Final Score: 80/80
