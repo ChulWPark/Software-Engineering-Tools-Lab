@@ -1,0 +1,51 @@
+# ########################################################### 
+#
+#   Program 1: Kaprekar Number
+#
+# ###########################################################
+
+# File Present: YES
+# Test Case 1: No argument passed to the script and return code.
+Expected Output: Usage kaprekar.bash <non-negative number>
+
+Your Result: Passed                         
+
+Score: 3/3
+    
+  
+# Test Case 2: A non-negative integer passed.
+
+Your Result:  passed
+(-2 points for not printing "01" in expected output)
+99, square=9801, 01+98=99
+
+Score: 12/12 
+
+
+
+
+
+# ########################################################### 
+#
+#   Program 2: File Permissions
+#
+# ########################################################### 
+
+# File Present: NO 
+# Test 1: No argument passed
+Expected Output: Print appropriate message
+
+Your Result: 
+Score: 1/1
+
+# Test 2: File with permission 777
+
+Your Result:
+Score: 2/2
+
+# Test 3: Directory with permission 777
+
+Your Result:
+Score: 2/2
+
+Total Score= 20/20

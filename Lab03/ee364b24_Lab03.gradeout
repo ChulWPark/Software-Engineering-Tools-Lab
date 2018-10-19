@@ -1,0 +1,12 @@
+/home/ecegridfs/a/ee364ta/grading/Lab03/ee364b24
+
+-------------------------------------------------------------------------------
+FUNCTION          | DESCRIPTION          | COMMENTS                 | POINTS  
+-------------------------------------------------------------------------------
+filterByLetter      Multiple Match Test    Passed                     4/4     
+filterByLetter      No Match Test          Passed                     3/3     
+filterByLetter      Single Match Test      Passed                     3/3     
+getCumulativeSum    Complete List          Passed                     10/10   
+-------------------------------------------------------------------------------
+
+Total Score = 20.0

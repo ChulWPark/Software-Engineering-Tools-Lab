@@ -1,0 +1,6 @@
+#! /bin/bash
+for (( I=$1; I >= 0; I-- ))
+do
+    echo ${I}
+done
+exit 0
